@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">JusticeLeague</string>
+    <string name="Aquaman">Aquaman</string>
+    <string name="aquaman_nome">Arthur Curry</string>
+    <string name="aquaman_codinome">Aquaman</string>
+    <string name="aquaman_especie">Atlante</string>
+    <string name="aquaman_habilidade">Fisiologia Hibrida Atlante</string>
+    <string name="aquaman_vulnerabilidade">Semelhante ao Superman</string>
+    <string name="nivel_de_acesso">0</string>
+    <string name="aquaman_equip_nome">Tridente</string>
+    <string name="aquaman_equip_desc">Tridente de Netuno, a relíquia é completamente indestrutível</string>
+    <string name="aquaman_equip_func">Consegue manipular tanto os mares quanto a terra</string>
+
+    <string name="nome">Nome:</string>
+    <string name="codi_nome">Codinome:</string>
+    <string name="especie">Espécie:</string>
+    <string name="habilidade">Habilidade:</string>
+    <string name="vulnerabilidade">Vulnerabilidade:</string>
+    <string name="equip_nome">Nome equipamento:</string>
+    <string name="equip_desc">Descrição equipamento:</string>
+    <string name="equip_finalidade">Finalidade equipamento:</string>
+
+
+    <string name="mulher_maravilha">Mulher Maravilha</string>
+    <string name="mulher_maravilha_nome">Diana Prince</string>
+    <string name="mulher_maravilha_codinome">Mulher Maravilha</string>
+    <string name="mulher_maravilha_especie">Amazona</string>
+    <string name="mulher_maravilha_habilidade">força</string>
+    <string name="mulher_maravilha_vulnerabilidade">Venenos</string>
+    <string name="mulher_maravilha_equip_nome">Jato invisível</string>
+    <string name="mulher_maravilha_equip_desc">Jato aéreo que permite viagens sem a possibilidade de ser vista</string>
+    <string name="mulher_maravilha_equip_func">Transporte</string>
+
+    <string name="flash">Flash</string>
+    <string name="flash_nome">Barry Allen</string>
+    <string name="flash_codinome">Flash</string>
+    <string name="flash_especie">Humano</string>
+    <string name="flash_habilidade">Super velocidade</string>
+    <string name="flash_vulnerabilidade">Seu passado, e sua esposa.</string>
+    <string name="flash_equip_nome">Uniforme</string>
+    <string name="flash_equip_desc">Uniforme de alta tecnologia</string>
+    <string name="flash_equip_func">Possibilita correr sem que o tecido seja queimado</string>
+
+    <string name="superman">Superman</string>
+    <string name="superman_nome">Clark Kent</string>
+    <string name="superman_codinome">Superman</string>
+    <string name="superman_especie">Kryptoniano</string>
+    <string name="superman_habilidade">Força, vo, velocidade</string>
+    <string name="superman_vulnerabilidade">Kryptonita</string>
+    <string name="superman_equip_nome">Nenhum</string>
+    <string name="superman_equip_desc">Nenhum</string>
+    <string name="superman_equip_func">Nenhum</string>
+
+</resources>

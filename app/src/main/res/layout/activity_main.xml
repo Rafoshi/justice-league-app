@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#041649"
+    tools:context=".MainActivity">
+
+    <ImageButton
+        android:id="@+id/btnWw"
+        android:layout_width="139dp"
+        android:layout_height="68dp"
+        android:background="#00FFFFFF"
+        android:contentDescription="@string/mulher_maravilha"
+        android:scaleType="centerInside"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.191"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.687"
+        app:srcCompat="@drawable/ww" />
+
+    <ImageButton
+        android:id="@+id/btnFlash"
+        android:layout_width="139dp"
+        android:layout_height="79dp"
+        android:layout_marginStart="52dp"
+        android:background="#00FFFFFF"
+        android:contentDescription="@string/flash"
+        android:scaleType="centerInside"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.401"
+        app:srcCompat="@drawable/flash" />
+
+    <ImageButton
+        android:id="@+id/btnAqua"
+        android:layout_width="104dp"
+        android:layout_height="75dp"
+        android:layout_marginEnd="80dp"
+        android:background="#00FFFFFF"
+        android:contentDescription="@string/Aquaman"
+        android:scaleType="centerInside"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.944"
+        app:layout_constraintStart_toEndOf="@+id/btnWw"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.664"
+        app:srcCompat="@drawable/kljhgsfd" />
+
+    <ImageButton
+        android:id="@+id/btnSuper"
+        android:layout_width="131dp"
+        android:layout_height="78dp"
+        android:background="#00FFFFFF"
+        android:contentDescription="@string/superman"
+        android:scaleType="centerInside"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.807"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.401"
+        app:srcCompat="@drawable/ol" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
